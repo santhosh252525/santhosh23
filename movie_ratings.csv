@@ -1,0 +1,16 @@
+user,item,rating
+Alice,Star Wars,5
+Bob,Star Wars,4
+Charlie,Star Wars,5
+Alice,Toy Story,3
+Bob,Toy Story,2
+Alice,Braveheart,4
+Charlie,Braveheart,3
+Bob,The Matrix,5
+Charlie,The Matrix,4
+Alice,Inception,5
+Bob,Inception,4
+Charlie,Inception,5
+Alice,Frozen,2
+Bob,Frozen,3
+Charlie,Frozen,4
